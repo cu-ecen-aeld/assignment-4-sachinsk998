@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PROJECT_BASE
+    bool "Project Base"
+    help
+      Project Base external component
+
