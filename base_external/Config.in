@@ -1,5 +1,5 @@
-config BR2_PACKAGE_PROJECT_BASE
-    bool "Project Base"
+config BR2_PACKAGE_AESD_ASSIGNMENTS
+    bool "AESD Assignments"
     help
-      Project Base external component
+      Add AESD assignments package to the root filesystem.
 
