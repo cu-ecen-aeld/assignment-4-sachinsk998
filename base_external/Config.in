@@ -1,5 +1,2 @@
-config BR2_PACKAGE_AESD_ASSIGNMENTS
-    bool "AESD Assignments"
-    help
-      Add AESD assignments package to the root filesystem.
+source "$BR2_EXTERNAL_project_base_PATH/package/aesd-assignments/Config.in"
 
