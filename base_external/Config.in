@@ -1,1 +1,5 @@
 source "$BR2_EXTERNAL_project_base_PATH/package/aesd-assignments/Config.in"
+<<<<<<< HEAD
+=======
+
+>>>>>>> 63a432449fc0916b852868b14fe3407e1d1c546c
